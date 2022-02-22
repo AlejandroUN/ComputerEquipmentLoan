@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+#actionBtn {
+    -fx-background-color: #94b43b;
+    
+}
+
+#actionBtn:hover{
+    -fx-background-color: #82A424;
+} 
+#actionBtn:pressed{
+    -fx-background-color: #6D901D;
+} 

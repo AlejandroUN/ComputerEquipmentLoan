@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#loginBtn {
+    -fx-background-color: #94b43b;
+}
+#loginBtn:hover {
+    -fx-background-color: #82A424;
+}
+#lognBtn:pressed{
+    -fx-background-color: #6D901D;
+}
+#panelLogin {
+    -fx-background-color: white;
+    -fx-background-radius: 20;
+}
+
